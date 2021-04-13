@@ -1,0 +1,48 @@
+* {
+    margin: 0 auto;
+    
+}
+
+
+
+#title {
+    background: black;
+    color: whitesmoke; 
+    text-align: center; 
+    font-size: 2em ;
+    font-family: "Sofia", sans-serif;
+}
+#all {
+    padding: 30px ; 
+    margin-top: 10px ;
+    border: solid 9px orange ;
+    
+    width: 400px; 
+    height: 500px ; 
+    
+
+    
+}
+
+#we { 
+    
+    text-align: center; 
+    font-size: 35px ; 
+    
+
+
+
+}
+
+#sch {
+    
+    text-align: center; 
+    padding-top: 9px; 
+    font-size: 20px; 
+    
+    
+    
+
+
+
+}
